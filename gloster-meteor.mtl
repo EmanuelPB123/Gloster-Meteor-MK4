@@ -1,0 +1,310 @@
+# Blender MTL File: 'gloster-meteor.blend'
+# Material Count: 31
+
+newmtl DefaultWhite
+Ns 123.529412
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd texture.png
+
+newmtl DefaultWhite_ai.png
+Ns 123.529412
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ai.png
+
+newmtl DefaultWhite_air-temp.png
+Ns 123.529412
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd air-temp.png
+
+newmtl DefaultWhite_airbrakes.png
+Ns 123.529412
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd airbrakes.png
+
+newmtl DefaultWhite_alt.png
+Ns 123.529412
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd alt.png
+
+newmtl DefaultWhite_ammeter.png
+Ns 123.529412
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ammeter.png
+
+newmtl DefaultWhite_asi.png
+Ns 123.529412
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd asi.png
+
+newmtl DefaultWhite_clock.png
+Ns 123.529412
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd clock.png
+
+newmtl DefaultWhite_colors.png
+Ns 123.529412
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd panel.png
+
+newmtl DefaultWhite_compass.png
+Ns 123.529412
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd compass.png
+
+newmtl DefaultWhite_dimmer.png
+Ns 123.529412
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd dimmer.png
+
+newmtl DefaultWhite_egt.png
+Ns 123.529412
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd egt.png
+
+newmtl DefaultWhite_flaps.png
+Ns 123.529412
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd flaps.png
+
+newmtl DefaultWhite_gear.png
+Ns 123.529412
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd gear.png
+
+newmtl DefaultWhite_ggs.png
+Ns 123.529412
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ggs.png
+
+newmtl DefaultWhite_interior.png
+Ns 123.529412
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd interior.png
+
+newmtl DefaultWhite_ldg-controls.png
+Ns 123.529412
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ldg-controls.png
+
+newmtl DefaultWhite_misc.png
+Ns 123.529412
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd misc.png
+
+newmtl DefaultWhite_oil-pressure.png
+Ns 123.529412
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd oil-pressure.png
+
+newmtl DefaultWhite_oil_temp.png
+Ns 123.529412
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd oil_temp.png
+
+newmtl DefaultWhite_pedal.png
+Ns 123.529412
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd pedal.png
+
+newmtl DefaultWhite_radio.png
+Ns 123.529412
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd radio.png
+
+newmtl DefaultWhite_rpm.png
+Ns 123.529412
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd rpm.png
+
+newmtl DefaultWhite_seahawk-mach.png
+Ns 123.529412
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd seahawk-mach.png
+
+newmtl DefaultWhite_seat.png
+Ns 123.529412
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd seat.png
+
+newmtl DefaultWhite_throttle.png
+Ns 123.529412
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd throttle.png
+
+newmtl DefaultWhite_trim-wheel-elev.png
+Ns 123.529412
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd trim-wheel-elev.png
+
+newmtl DefaultWhite_turn.png
+Ns 123.529412
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd turn.png
+
+newmtl DefaultWhite_vsi.png
+Ns 123.529412
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd vsi.png
+
+newmtl transparent
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.720000 0.720000 0.720000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 0.150000
+illum 2
+
+newmtl transparentExt
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 0.300000
+illum 2
